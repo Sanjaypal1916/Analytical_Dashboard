@@ -5,6 +5,8 @@ An AI-Powered Analytical Dashboard using Groq-Llama3.2 offers:
 - Automated statistical Reports 
 - Data insights
 
+Live Demo : **https://analyticaldashboard-fgufnmqucptxxyovywaqkf.streamlit.app/
+
 ## installation and Run
 install the required libraries from requirements.txt file
 ```pip install -r requirements.txt```
