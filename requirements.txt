@@ -6,3 +6,4 @@ langchain-groq
 dotenv
 seaborn 
 matplotlib
+tabulate
