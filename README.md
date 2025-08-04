@@ -9,7 +9,7 @@ An AI-Powered Analytical Dashboard using Groq-Llama3.2 offers:
 install the required libraries from requirements.txt file
 ```pip install -r requirements.txt```
 
-Go to the root directory and in ternimal write 
+Go to the root directory and in terminal write 
 ```streamlit run App.py```
 
 ## Working
